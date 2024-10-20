@@ -12,7 +12,7 @@
 Clone this repository
 
 ```bash
-    git clone https://github.com/your-username/discord-interrupt-bot.git
+    git clone https://github.com/masonentrican/discord-interrupt-bot.git
     cd discord-interrupt-bot
 ```
 
